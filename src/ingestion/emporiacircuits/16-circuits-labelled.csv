@@ -1,0 +1,17 @@
+16circuits,emporia device name,homeassistant name
+CT-1,AC,sensor.ac_power_minute_average
+CT-2,OFFICE,sensor.office_power_minute_average
+CT-3,DRYER,sensor.dryer_power_minute_average
+CT-4,DRYER,sensor.dryer_power_minute_average_2
+CT-5,WATER HEATER,sensor.water_heater_power_minute_average
+CT-6,WATWR HEATER,sensor.watwr_heater_power_minute_average
+CT-7,GARAGE FREEZER,sensor.garage_freezer_power_minute_average
+CT-8,PELOTON ROOM,sensor.peloton_power_minute_average
+CT-9,WASHER,sensor.washer_power_minute_average
+CT-10,BOILER,sensor.boiler_power_minute_average
+CT-11,FRIDGE BASEMENT,sensor.fridge_basement_power_minute_average
+CT-12,FRIDGE KITCHEN,sensor.fridge_kitchen_power_minute_average
+CT-13,MICROWAVE,sensor.microwave_power_minute_average
+CT-14,DISHWASHER,sensor.dishwasher_power_minute_average
+CT-15,RANGE,sensor.range_power_minute_average
+CT-16,RANGE,sensor.range_power_minute_average_2
